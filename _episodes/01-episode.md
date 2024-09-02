@@ -11,19 +11,20 @@ title: "1."
 
 ## 2.1. 
 
-Give an example of thermodynamic a process that can be done as reversible, and irreversible. Name for this process on one function of state and transition.
+Give an example of a thermodynamic process that can be done as reversible, and irreversible. 
+Name one function of state and one function of transition for this process
 
 ## 2.2. 
 
-Give examples of systems over time relaxation order: a) seconds; b) hours; c) hours Decades.
+Give examples of systems with the relaxation times on the order of: a) seconds; b) hours; c) decades.
 
 ## 2.3. 
 
-Prove that with large volumes the first Dieterichi Equation Goes into Equation The perfect gas.
+Prove that in the limit of large volumes the first Diterichi equation reduces to the perfect gas equation of state.
 
 ## 2.4. 
 
-Find the critical parameters and given emission status equations for gases: (a) Van der Waals; b) Bertlo.
+Find the critical parameters and the reduced equations of state for gases: (a) Van der Waals; b) Bertlo.
 
 
 # 3. Solutions
