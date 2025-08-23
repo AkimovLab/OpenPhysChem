@@ -21,17 +21,51 @@ problems.
 
 ## Content
 
-### 1. Basic terminology and definitions of thermodynamics.Gas laws and equations of state for gases. 
+## Module 1 - Thermodynamics
 
-### 2. Basic ideas of molecular-kinetic theory (MKT) of gases. Critical states. Math review: Differentiation.
+* Unit 1: Basic terminology and definitions of thermodynamics. Gas laws and equations of state for gases.
 
-### 3. 1-st law of thermodynamics: work and heat, work of gases. Math review: integration.
+* Unit 2: Basic ideas of molecular-kinetic theory (MKT) of gases. Critical states. Math review: Differentiation.
 
-### 4. 1-st law of thermodynamics and thermochemistry: internal energy and enthalpies of phase changes and chemical reactions. Hess�s law.
+* Unit 3: 1-st law of thermodynamics: work and heat, work of gases. Math review: integration.
 
-### 5. 2-nd law of thermodynamics: Entropy, Helmholtz, and Gibbs free energies. Spontaneous processes and their directionality. 3-rd law of thermodynamics: Absolute entropies.
+* Unit 4: 1-st law of thermodynamics and thermochemistry: internal energy and enthalpies of phase changes and chemical reactions. Hess’s law.
 
-### 6. Thermodynamic potentials. Maxwell�s equations.
+* Unit 5: 2-nd law of thermodynamics: Entropy, Helmholtz, and Gibbs free energies. Spontaneous processes and their directionality. 3-rd law of thermodynamics: Absolute entropies.
+
+* Unit 6: Thermodynamic potentials. Fundamental equations of Thermodynamics. Maxwell’s equations.
+  
+* Unit 7: Applications of thermodynamics: phase equilibria in 1-component systems. Clapeyron and Clausius-Clapeyron equations.
+
+* Unit 8: Solutions of electrolytes and non-electrolytes. Raul’s law. Activities. Partial properties. Colligative properties. Solubility.
+
+* Unit 9: Chemical equilibrium: principles, vant-Hoff’s equation, LeChatelier’s principle.
+
+## Module 2 - Electrochemistry 
+
+* Unit 10: Fundamentals of electrochemistry. Debye-Huckel theory. Redox reactions and electrochemical cells.
+
+## Module 3 - Statistical Mechanics
+
+* Unit 11: Review of classical mechanics. Postulates of statistical mechanics. Liouville’s theorem and phase space dynamics.
+
+* Unit 12: Partition function and its properties. Relation of the partition function to thermodynamic functions.
+
+* Unit 13: Statistical mechanics in computational chemistry.
+
+## Module 4 - Chemical Kinetics
+
+* Unit 14: Basic postulates and definitions of chemical kinetics. Kinetics of simple reactions.
+
+* Unit 15: Kinetics of complex reactions. Experimental determination of the reaction orders. Dependence of reaction rates on temperature: Arrhenius equation and Vant-Hoff’s rule.
+
+* Unit 16: Approximate methods of chemical kinetics: Quasi-equilibrium and steady-state approximations. Deriving rate laws from mechanisms of chemical reactions.
+
+* Unit 17: Enzymatic and heterogenous catalysis. Michaelis-Menten equation and Langmuir and BET isotherms.
+
+* Unit 18: Reactions in solutions. Photochemical reactions. Chain reactions. Charge transfer reactions.
+
+* Unit 19: Theories of chemical kinetics: active collisions theory and activated complex theory.
 
 
 ## Resources
